@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌🏻, My name is Sahil Kale</h1>
 <h3 align="center">A techy Geek who is curious about ML/AI and Big Data</h3>
 
-- 📩 You can contact me at [sahilkale.sk07@gmail.com] [mailto:sahilkale.sk07@gmail.com](mailto:sahilkale.sk07@gmail.com)
+- 📩 You can contact me at [sahilkale.sk07@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
